@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroRoigM
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in improving my programing skills. 
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me pedro.roig.morera@gmail.com
