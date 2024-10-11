@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'm passionate about technology and continuously working on improving my programming skills, particularly in Python and deep learning. I'm always eager to explore new tools and technologies to expand my knowledge and solve challenging problems.</h3>
+<h3 align="left">I'm passionate about technology and continuously working on improving my programming skills, particularly in Python and deep learning. I'm always eager to explore new tools and technologies to expand my knowledge and solve challenging problems.</h3>
 
 - 🔭 I’m currently working on **Improving my programing and data management skills**
 
